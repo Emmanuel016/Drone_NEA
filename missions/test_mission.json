@@ -1,0 +1,31 @@
+{
+  "name": "test_mission",
+  "created": "2026-07-22T21:19:26.640312",
+  "waypoints": [
+    {
+      "latitude": -35.363262,
+      "longitude": 149.165237,
+      "altitude": 20,
+      "hold_time": 2,
+      "acceptance_radius": 5
+    },
+    {
+      "latitude": -35.363161999999996,
+      "longitude": 149.165337,
+      "altitude": 25,
+      "hold_time": 0,
+      "acceptance_radius": 5
+    },
+    {
+      "latitude": -35.363362,
+      "longitude": 149.165137,
+      "altitude": 20,
+      "hold_time": 3,
+      "acceptance_radius": 5
+    }
+  ],
+  "total_waypoints": 3,
+  "metadata": {
+    "test": true
+  }
+}

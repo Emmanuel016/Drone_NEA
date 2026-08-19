@@ -1,0 +1,1029 @@
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:04:01] "GET /socket.io/?EIO=4&transport=polling&t=P_EpXje HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:04:01] "POST /socket.io/?EIO=4&transport=polling&t=P_EpXlL&sid=VZpiUPdfB4czE8e-AAAC HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:04:02] "GET /socket.io/?EIO=4&transport=polling&t=P_EpXlS&sid=VZpiUPdfB4czE8e-AAAC HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:04:02] "GET /api/status HTTP/1.1" 200 -
+2026-08-04 INFO: Starting drone system...
+2026-08-04 INFO: Connecting to ArduPilot...
+2026-08-04 INFO: Waiting for heartbeat...
+2026-08-04 INFO: Heartbeat received (System=1, Component=0)
+2026-08-04 INFO: Heartbeat received after 0.44 seconds.
+2026-08-04 INFO: First MAVLink message: AHRS
+2026-08-04 INFO: Connection established.
+2026-08-04 INFO: 
+==================================================
+2026-08-04 INFO: Connection Information
+2026-08-04 INFO: ==================================================
+2026-08-04 INFO: Connection : udpin:0.0.0.0:14551
+2026-08-04 INFO: System ID  : 1
+2026-08-04 INFO: Component  : 0
+2026-08-04 INFO: Mode       : LAND
+2026-08-04 INFO: ==================================================
+2026-08-04 INFO: Camera controller initialized
+2026-08-04 INFO: Failsafe monitoring system initialized
+2026-08-04 INFO: Failsafe callbacks updated
+2026-08-04 INFO: Background monitor thread started
+2026-08-04 INFO: Background failsafe monitoring started
+2026-08-04 INFO: Drone system startup complete
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:04:07] "POST /api/connect HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:04:07] "GET /api/mission/list HTTP/1.1" 200 -
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : LAND
+2026-08-04 INFO: Changing mode to GUIDED...
+2026-08-04 INFO: Current mode: LAND
+2026-08-04 INFO: Waiting for GUIDED mode... and it's not yet on GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: An error occurred while waiting for mode change.
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Arming drone...
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: An error occurred while waiting for mode change.
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.01 Right=-0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Drone armed successfully.
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:04:23] "POST /api/arm HTTP/1.1" 200 -
+2026-08-04 INFO: An error occurred while waiting for mode change.
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: An error occurred while waiting for mode change.
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Current mode: GUIDED
+2026-08-04 INFO: GUIDED confirmed.
+2026-08-04 INFO: Flight mode changed to GUIDED.
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:04:25] "POST /api/mode HTTP/1.1" 200 -
+2026-08-04 INFO: Drone is already in GUIDED mode.
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:04:26] "POST /api/mode HTTP/1.1" 200 -
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=-0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Preparing for takeoff to 5.0 m...
+2026-08-04 INFO: Drone is already in GUIDED mode.
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=-0.00 Yaw=-0.16
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.15
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.15
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 0.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.15
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Arming drone...
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 0.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.15
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Drone armed successfully.
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 0.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.15
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 0.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.15
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Sending takeoff command...
+2026-08-04 INFO: Takeoff command sent.
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:04:39] "POST /api/takeoff HTTP/1.1" 200 -
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 0.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.15
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Drone is already armed.
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:04:40] "POST /api/arm HTTP/1.1" 200 -
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 0.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.15
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=-0.09
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 0.05 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.15
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=-1.27
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 0.65 m
+2026-08-04 INFO: Roll=0.00 Pitch=-0.00 Yaw=-0.15
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=-1.57
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 1.77 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.15
+2026-08-04 INFO: Battery : 85%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=-2.16
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 3.34 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 84%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=-1.38
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Battery : 84%
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 4.75 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 84%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=-0.27
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 5.06 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 84%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.11
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 4.98 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 84%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 4.96 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 84%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=-0.03
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 4.98 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 83%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.00 Up=-0.02
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 4.98 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 83%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.00 Up=-0.01
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Battery : 83%
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 4.99 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 83%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=-0.01
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 4.99 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 83%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 4.99 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 83%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 4.99 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 82%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 82%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:04:53] "[35m[1mPOST /api/mission/start HTTP/1.1[0m" 500 -
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 82%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 82%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Battery : 82%
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 82%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:04:55] "[35m[1mPOST /api/mission/start HTTP/1.1[0m" 500 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:04:55] "[35m[1mPOST /api/mission/start HTTP/1.1[0m" 500 -
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 81%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652374, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 81%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 81%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 81%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 81%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Battery : 81%
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 81%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 80%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 80%
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:05:01] "[35m[1mPOST /api/mission/start HTTP/1.1[0m" 500 -
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.02 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 80%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.02 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 80%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 80%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 79%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Battery : 79%
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 79%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 79%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 79%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 79%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 78%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 78%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Battery : 78%
+2026-08-04 INFO: Position : -35.3632621, 149.1652372, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 78%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.02 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652372, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 78%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.02 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632621, 149.1652372, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 78%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.02 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 77%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 77%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 77%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 77%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Battery : 77%
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 77%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 77%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 76%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 76%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 76%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 76%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Battery : 76%
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 76%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: All waypoints cleared.
+2026-08-04 INFO: Mission created with 3 waypoints
+2026-08-04 INFO: Mission loaded from: C:\Users\user\Documents\DroneNEA\missions\test_mission.json
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:05:21] "POST /api/mission/load HTTP/1.1" 200 -
+2026-08-04 INFO: Position : -35.3632620, 149.1652372, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 75%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.02 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652372, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 75%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.02 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:05:23] "[35m[1mPOST /api/mission/start HTTP/1.1[0m" 500 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:05:23] "[35m[1mPOST /api/mission/start HTTP/1.1[0m" 500 -
+2026-08-04 INFO: Position : -35.3632620, 149.1652372, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 75%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.02 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 75%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 75%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Battery : 75%
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 74%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 74%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 74%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 74%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 74%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 73%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 73%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Battery : 73%
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 73%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 73%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 73%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.02 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652372, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 73%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.02 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652372, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 72%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.02 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 72%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Battery : 72%
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 72%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 72%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 72%
+2026-08-04 INFO: All waypoints cleared.
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Mission created with 3 waypoints
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Mission loaded from: C:\Users\user\Documents\DroneNEA\missions\test_mission.json
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:05:38] "POST /api/mission/load HTTP/1.1" 200 -
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 71%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:05:39] "[35m[1mPOST /api/mission/start HTTP/1.1[0m" 500 -
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 71%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Battery : 71%
+2026-08-04 INFO: All waypoints cleared.
+2026-08-04 INFO: Mission created with 3 waypoints
+2026-08-04 INFO: Mission loaded from: C:\Users\user\Documents\DroneNEA\missions\test_mission.json
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:05:40] "POST /api/mission/load HTTP/1.1" 200 -
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 71%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 71%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 71%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 70%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 70%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:05:45] "GET /api/mission/list HTTP/1.1" 200 -
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 70%
+2026-08-04 INFO: Velocity : Forwards=0.00 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Battery : 70%
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 70%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.02 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 70%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.02 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 70%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 69%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Position : -35.3632620, 149.1652373, 5.00 m
+2026-08-04 INFO: Roll=0.00 Pitch=0.00 Yaw=-0.14
+2026-08-04 INFO: Battery : 69%
+2026-08-04 INFO: Velocity : Forwards=-0.01 Right=0.01 Up=0.00
+2026-08-04 INFO: Satellites = 10
+2026-08-04 INFO: Current Mode : GUIDED
+2026-08-04 INFO: Shutting down drone system...
+2026-08-04 INFO: Background monitor thread stopped
+2026-08-04 INFO: Background failsafe monitoring stopped
+2026-08-04 INFO: Disconnected from ArduPilot.
+2026-08-04 INFO: Drone system shutdown complete
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:05:49] "POST /api/disconnect HTTP/1.1" 200 -
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\debughelpers.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\json\\tag.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\sessions.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\templating.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\logging.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:10:45] "GET /socket.io/?EIO=4&transport=polling&t=P_EqugA HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:10:45] "GET /socket.io/?EIO=4&transport=polling&t=P_EqopW HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:10:45] "GET /socket.io/?EIO=4&transport=polling&t=P_Eq_G2 HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:10:45] "POST /socket.io/?EIO=4&transport=polling&t=P_Er4EW&sid=MU3tsAjatsIX8fiSAAAC HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:10:45] "GET /socket.io/?EIO=4&transport=polling&t=P_Er4FB&sid=MU3tsAjatsIX8fiSAAAC HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:10:45] "GET /api/status HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:11:38] "GET /socket.io/?EIO=4&transport=websocket&sid=MU3tsAjatsIX8fiSAAAC HTTP/1.1" 200 -
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\connection.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\control.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_connections.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_mission.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_api_routes.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_telemetry.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_navigations.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_controls.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:17:42] "GET /socket.io/?EIO=4&transport=polling&t=P_EsgAE HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:17:42] "POST /socket.io/?EIO=4&transport=polling&t=P_EsgAt&sid=MPymDr7SFgt7XegvAAAA HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:17:42] "GET /socket.io/?EIO=4&transport=polling&t=P_EsgAv&sid=MPymDr7SFgt7XegvAAAA HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:17:42] "GET /api/status HTTP/1.1" 200 -
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\jinja2\\__init__.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\jinja2\\environment.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:23:22] "GET /socket.io/?EIO=4&transport=polling&t=P_EtzCE HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:23:22] "POST /socket.io/?EIO=4&transport=polling&t=P_EtzCq&sid=84vBfo4gQ9O1oPp-AAAA HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:23:22] "GET /socket.io/?EIO=4&transport=polling&t=P_EtzCs&sid=84vBfo4gQ9O1oPp-AAAA HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:23:22] "GET /socket.io/?EIO=4&transport=polling&t=P_EtzDK&sid=84vBfo4gQ9O1oPp-AAAA HTTP/1.1" 200 -
+2026-08-04 INFO: 127.0.0.1 - - [04/Aug/2026 23:23:22] "GET /api/status HTTP/1.1" 200 -
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\json\\__init__.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\__init__.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\app.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\blueprints.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\config.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\ctx.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\globals.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\helpers.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\signals.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\wrappers.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\lxml\\__init__.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\click\\decorators.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\click\\exceptions.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\click\\formatting.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\click\\globals.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\click\\termui.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\click\\types.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\click\\utils.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\click\\parser.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\jinja2\\async_utils.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\markupsafe\\_native.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\jinja2\\idtracking.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\jinja2\\optimizer.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\jinja2\\visitor.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\jinja2\\_identifier.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\click\\_utils.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\watchdog\\observers\\__init__.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\watchdog\\events.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\watchdog\\utils\\__init__.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\watchdog\\utils\\platform.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\watchdog\\observers\\api.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\watchdog\\observers\\inotify.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\watchdog\\observers\\fsevents.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\watchdog\\observers\\kqueue.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\watchdog\\observers\\read_directory_changes.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\watchdog\\observers\\polling.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\numpy\\_typing\\__init__.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\numpy\\_typing\\_extended_precision.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-04 INFO:  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\util.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\_log.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\models\\drone_controller.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\models\\drone_controller.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\models\\drone_controller.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\watchdog\\tricks\\__init__.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\watchdog\\utils\\delayed_queue.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\werkzeug\\debug\\repr.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_camera.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_drone_controller.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\click\\testing.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\h11\\_headers.py', reloading
+2026-08-04 INFO:  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\wsproto\\typing.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\drone.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\mission.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\navigations.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\__init__.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\config.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\extensions.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\models\\__init__.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\models\\telemetry_manager.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\routes\\__init__.py', reloading
+2026-08-04 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\routes\\main.py', reloading
+2026-08-04 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-04 INFO: Initializing Drone interface...
+2026-08-04 INFO: Drone interface initialized (not connected)
+2026-08-04 WARNING:  * Debugger is active!
+2026-08-04 INFO:  * Debugger PIN: 800-872-292
+2026-08-05 INFO: 127.0.0.1 - - [05/Aug/2026 00:05:40] "GET /socket.io/?EIO=4&transport=polling&t=P_F1egi HTTP/1.1" 200 -
+2026-08-05 INFO: 127.0.0.1 - - [05/Aug/2026 00:05:40] "POST /socket.io/?EIO=4&transport=polling&t=P_F1eh1&sid=tETYlBVcI86kIlthAAAA HTTP/1.1" 200 -
+2026-08-05 INFO: 127.0.0.1 - - [05/Aug/2026 00:05:40] "GET /socket.io/?EIO=4&transport=polling&t=P_F1eh4&sid=tETYlBVcI86kIlthAAAA HTTP/1.1" 200 -
+2026-08-05 INFO: 127.0.0.1 - - [05/Aug/2026 00:05:40] "GET /api/status HTTP/1.1" 200 -
+2026-08-05 INFO: 127.0.0.1 - - [05/Aug/2026 01:06:41] "GET /socket.io/?EIO=4&transport=websocket&sid=tETYlBVcI86kIlthAAAA HTTP/1.1" 200 -
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\exceptions.py', reloading
+2026-08-05 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-05 INFO: Initializing Drone interface...
+2026-08-05 INFO: Drone interface initialized (not connected)
+2026-08-05 WARNING:  * Debugger is active!
+2026-08-05 INFO:  * Debugger PIN: 800-872-292
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_telemetry.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_navigations_patterns.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_navigations.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_mission.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_failsafe.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_drone_controller.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_controls.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_connections.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_camera.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\tests\\test_api_routes.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\camera.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\__init__.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\__init__.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\drone.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\mission.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\telemetry.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\control.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\failsafe.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\routes\\__init__.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\navigations.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\connection.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\models\\__init__.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\extensions.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\config.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\models\\telemetry_manager.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\gui\\models\\drone_controller.py', reloading
+2026-08-05 INFO:  * Detected change in 'c:\\Users\\user\\Documents\\DroneNEA\\drone\\config.py', reloading
+2026-08-05 INFO:  * Restarting with watchdog (windowsapi)
+2026-08-05 INFO: Initializing Drone interface...
+2026-08-05 INFO: Drone interface initialized (not connected)
+2026-08-05 WARNING:  * Debugger is active!
+2026-08-05 INFO:  * Debugger PIN: 800-872-292

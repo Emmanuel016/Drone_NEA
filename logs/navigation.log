@@ -1,0 +1,16 @@
+2026-07-22 22:12:41,111 INFO: All waypoints cleared.
+2026-07-22 22:12:41,114 INFO: Added waypoint 1: Waypoint(lat=-35.3632620, lon=149.1652370, alt=20.0m, hold=2s)
+2026-07-22 22:12:41,115 INFO: Added waypoint 2: Waypoint(lat=-35.3631620, lon=149.1653370, alt=25.0m, hold=0s)
+2026-07-22 22:12:41,116 INFO: Added waypoint 3: Waypoint(lat=-35.3633620, lon=149.1651370, alt=20.0m, hold=3s)
+2026-07-22 22:12:43,417 INFO: All waypoints cleared.
+2026-07-22 22:12:43,425 INFO: Added waypoint 1: Waypoint(lat=-35.3632620, lon=149.1652370, alt=20.0m, hold=2s)
+2026-07-22 22:12:43,427 INFO: Added waypoint 2: Waypoint(lat=-35.3631620, lon=149.1653370, alt=25.0m, hold=0s)
+2026-07-22 22:12:43,427 INFO: All waypoints cleared.
+2026-07-22 22:12:43,428 INFO: Added waypoint 1: Waypoint(lat=-35.3633620, lon=149.1651370, alt=20.0m, hold=3s)
+2026-07-22 22:12:43,428 INFO: Added waypoint 2: Waypoint(lat=-35.3632620, lon=149.1652370, alt=20.0m, hold=2s)
+2026-07-22 22:12:43,431 INFO: Added waypoint 3: Waypoint(lat=-35.3631620, lon=149.1653370, alt=25.0m, hold=0s)
+2026-07-22 22:12:43,433 INFO: Added waypoint 4: Waypoint(lat=-35.3633620, lon=149.1651370, alt=20.0m, hold=3s)
+2026-07-22 22:26:28,119 INFO: All waypoints cleared.
+2026-07-22 22:26:28,123 INFO: Added waypoint 1: Waypoint(lat=-35.3632620, lon=149.1652370, alt=20.0m, hold=2s)
+2026-07-22 22:26:28,125 INFO: Added waypoint 2: Waypoint(lat=-35.3631620, lon=149.1653370, alt=25.0m, hold=0s)
+2026-07-22 22:26:28,128 INFO: Added waypoint 3: Waypoint(lat=-35.3633620, lon=149.1651370, alt=20.0m, hold=3s)

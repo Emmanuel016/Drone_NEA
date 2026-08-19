@@ -1,0 +1,34 @@
+{
+  "name": "second_mission",
+  "created": "2026-08-10T11:15:22.490435",
+  "waypoints": [
+    {
+      "latitude": -35.363262,
+      "longitude": 149.165237,
+      "altitude": 10.0,
+      "hold_time": 2,
+      "acceptance_radius": 5,
+      "camera_action": "none",
+      "camera_delay": 0
+    },
+    {
+      "latitude": -35.36327,
+      "longitude": 149.165245,
+      "altitude": 15.0,
+      "hold_time": 0,
+      "acceptance_radius": 5,
+      "camera_action": "none",
+      "camera_delay": 0
+    },
+    {
+      "latitude": -35.36328,
+      "longitude": 149.165255,
+      "altitude": 20.0,
+      "hold_time": 5,
+      "acceptance_radius": 5,
+      "camera_action": "none",
+      "camera_delay": 0
+    }
+  ],
+  "total_waypoints": 3
+}
