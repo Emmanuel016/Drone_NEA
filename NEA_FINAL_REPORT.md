@@ -1,9 +1,9 @@
 # DroneNEA - AQA A-level Computer Science NEA Project
 
-**Candidate Name:** [Your Name]
-**Centre Number:** [Your Centre Number]
-**Candidate Number:** [Your Candidate Number]
-**Project Title:** DroneNEA - Educational Drone Control System
+**Candidate Name:** Emmanuel Ugwu
+**Centre Number:** 
+**Candidate Number:** 00571943
+**Project Title:** DroneNEA - Investigation Drone Control System
 **Date:** September 2026
 
 ---
