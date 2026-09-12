@@ -1,6 +1,19 @@
 # DroneNEA - Analysis Section
 
 ## 1. Problem Definition
+Your analysis should include:
+
+- a clear statement that describes the problem area and the specific problem being solved / investigated 
+
+- an outline of how the problem was researched 
+
+- a statement indicating who the problem is being solved / investigated for 
+
+- background in sufficient detail for a third party to understand the problem being solved / investigated 
+
+- a numbered list of measurable, "appropriate" specific objectives, covering all required functionality of the solution or areas of investigation (‘appropriate’ means the specific objectives are single purpose and at a level of detail that is without ambiguity) 
+
+any modelling of the problem that will inform the Design stage, for example a graph / network model of Facebook connections or an E-R model, state diagrams, scientific / mathematical models or formulae, data flow diagrams. 
 
 ### 1.1 Problem Statement
 Drone technology has become increasingly accessible, but controlling drones programmatically remains complex and requires deep technical knowledge of MAVLink protocols and flight controller systems. There is a need for an educational platform that:

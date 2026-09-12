@@ -4,6 +4,7 @@
 
 ### 1.1 Overall System Design
 The DroneNEA system follows a **three-tier architecture**:
+Flowcharts and/or Pseudo Code explaining all the main algorithms and Formatted Code Listing
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
