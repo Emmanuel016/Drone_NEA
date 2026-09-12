@@ -1,0 +1,18 @@
+# DroneNEA SDK Dependencies
+# Python 3.8+
+
+# Core MAVLink communication
+pymavlink>=2.4.40
+
+# Web framework for GUI
+Flask>=3.0.0
+flask-socketio>=5.3.0
+
+# System monitoring (optional, for health checks)
+psutil>=5.9.0
+
+# HTTP requests for photo download
+requests>=2.31.0
+
+# Testing framework
+pytest>=7.4.0

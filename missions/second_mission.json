@@ -1,0 +1,65 @@
+{
+  "name": "second_mission",
+  "created": "2026-08-10T11:15:22.490435",
+  "waypoints": [
+    {
+      "latitude": -35.363262,
+      "longitude": 149.165237,
+      "altitude": 10.0,
+      "hold_time": 2,
+      "acceptance_radius": 5,
+      "camera_action": "none",
+      "camera_delay": 0
+    },
+    {
+      "latitude": -35.363567,
+      "longitude": 149.165237,
+      "altitude": 15.0,
+      "hold_time": 0,
+      "acceptance_radius": 3,
+      "camera_action": "photo",
+      "camera_delay": 0
+    },
+    {
+    "latitude": -35.363262,
+    "longitude": 149.165292,
+    "altitude": 8.0,
+    "hold_time": 0,
+    "camera_action": "video_start",
+    "camera_delay": 3
+    },
+    {
+      "latitude": -35.36328,
+      "longitude": 149.165255,
+      "altitude": 13.0,
+      "hold_time": 5,
+      "acceptance_radius": 5,
+      "camera_action": "none",
+      "camera_delay": 0
+    },
+    {
+      "latitude": -35.363262,
+      "longitude": 149.165237,
+      "altitude": 20,
+      "hold_time": 2,
+      "acceptance_radius": 5
+    },
+    {
+      "latitude": -35.3631619996,
+      "longitude": 149.165337,
+      "altitude": 25,
+      "hold_time": 0,
+      "acceptance_radius": 5
+    },
+    {
+      "latitude": -35.363362,
+      "longitude": 149.165137,
+      "altitude": 20,
+      "hold_time": 3,
+      "acceptance_radius": 5,
+      "camera_action": "video_stop"
+    }
+
+  ],
+  "total_waypoints": 7
+}
