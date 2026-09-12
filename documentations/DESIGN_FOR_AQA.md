@@ -8,8 +8,8 @@ Flowcharts and/or Pseudo Code explaining all the main algorithms and Formatted C
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                   Presentation Layer                         │
-│                  (Web Interface - GUI)                       │
+│                   Presentation Layer                        │
+│                  (Web Interface - GUI)                      │
 │  ┌────────────────────────────────────────────────────────┐ │
 │  │  HTML/CSS/JavaScript Frontend                          │ │
 │  │  - User interface                                      │ │
@@ -21,26 +21,26 @@ Flowcharts and/or Pseudo Code explaining all the main algorithms and Formatted C
                            │ HTTP/WebSocket
                            ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                    Application Layer                          │
-│                   (Flask Server + API)                        │
+│                    Application Layer                        │
+│                   (Flask Server + API)                      │
 │  ┌────────────────────────────────────────────────────────┐ │
-│  │  Flask + Flask-SocketIO Backend                         │ │
+│  │  Flask + Flask-SocketIO Backend                        │ │
 │  │  - REST API endpoints                                  │ │
 │  │  - WebSocket communication                             │ │
-│  │  - Business logic coordination                          │ │
+│  │  - Business logic coordination                         │ │
 │  └────────────────────────────────────────────────────────┘ │
 └─────────────────────────────────────────────────────────────┘
                            │
                            │ MAVLink Protocol
                            ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                      Data Layer                               │
-│              (Drone Control Modules)                          │
+│                      Data Layer                             │
+│              (Drone Control Modules)                        │
 │  ┌────────────────────────────────────────────────────────┐ │
-│  │  Python Modules                                         │ │
-│  │  - Connection, Control, Telemetry                       │ │
-│  │  - Navigation, Mission, Camera                          │ │
-│  │  - Failsafe, Configuration                              │ │
+│  │  Python Modules                                        │ │
+│  │  - Connection, Control, Telemetry                      │ │
+│  │  - Navigation, Mission, Camera                         │ │
+│  │  - Failsafe, Configuration                             │ │
 │  └────────────────────────────────────────────────────────┘ │
 └─────────────────────────────────────────────────────────────┘
 ```
