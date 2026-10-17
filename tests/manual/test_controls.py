@@ -18,14 +18,11 @@ def main():
             logger.error("Startup failed")
             return
 
-        logger.info("Current Flight Mode:")
-        logger.info(drone.control.get_mode())
+        logger.info(f"Mode: {drone.control.get_mode()}")
 
-        logger.info("Battery:")
-        logger.info(f"{drone.telemetry.get_battery()}%")
-
-        logger.info("Altitude:")
-        logger.info(f"{drone.telemetry.get_altitude()} m")
+        logger.info(f"Battery: {drone.telemetry.get_battery()}%")
+        
+        logger.info(f"Altitude: {drone.telemetry.get_altitude()} m")
 
         logger.info("---------------------------------")
         logger.info("Starting flight test")

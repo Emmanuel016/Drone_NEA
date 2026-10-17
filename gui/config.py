@@ -11,7 +11,10 @@ class Config:
         raise ValueError("SECRET_KEY environment variable must be set")
     
     # Flask-SocketIO settings
-    SOCKETIO_CORS_ALLOWED_ORIGINS = os.environ.get('CORS_ORIGINS', 'http://localhost:5000').split(',')
+    SOCKETIO_CORS_ALLOWED_ORIGINS = os.environ.get(
+        'CORS_ORIGINS',
+        'http://localhost:5000,http://127.0.0.1:5000'
+    ).split(',')
     
     # Server settings
     HOST = os.environ.get('HOST', '0.0.0.0')

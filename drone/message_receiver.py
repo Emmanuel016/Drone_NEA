@@ -25,7 +25,8 @@ class MessageReceiver:
     Central MAVLink message receiver and distributor.
     This class runs a single message listener loop that receives all MAVLink
     messages and distributes them to registered subscribers based on message
-    type. This eliminates message contention between modules and provides
+    type. 
+    This eliminates message contention between modules and provides
     a clean separation of concerns.
     
     Architecture:

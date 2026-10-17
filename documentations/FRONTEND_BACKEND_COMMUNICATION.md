@@ -558,11 +558,11 @@ def arm():
 ```
 Backend (Every 500ms)                WebSocket                  Frontend
 ┌────────────────────────┐              ┌──────────┐              ┌──────────────┐
-│ TelemetryManager       │              │ Socket.io │              │   Browser    │
-│                          │              │          │              │              │
-│ _telemetry_loop()       │─────────────▶│ Broadcast │─────────────▶│ socket.on()   │
-│                          │              │          │              │              │
-│ _get_telemetry_data()   │              │          │              │              │
+│ TelemetryManager       │              │Socket.io │              │   Browser        │
+│                        │              │          │              │              │
+│ _telemetry_loop()      │─────────▶│ Broadcast │─────────────▶│ socket.on()    │
+│                        │              │          │              │              │
+│ _get_telemetry_data()  │              │          │              │              │
 │ {position, battery...} │              │          │              │              │
 └────────────────────────┘              └──────────┘              └──────────────┘
 ```

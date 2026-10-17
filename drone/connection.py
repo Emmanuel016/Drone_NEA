@@ -82,7 +82,7 @@ class Connection:
                 time.sleep(config.connection.RETRY_DELAY)
             else:
                 raise DroneConnectionError(
-                    f"Unable to connect to ArduPilot after {config.connection.MAX_RETRIES} attempts: {error}",
+                    f"Unable to connect to ArduPilot after {config.connection.MAX_RETRIES} maximum attempts: {error}",
                     details={"attempts": config.connection.MAX_RETRIES, "last_error": str(error)}
                 )
 
